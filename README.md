@@ -1,2 +1,2 @@
 # git_test
-first githb repo for the Odin Project
+first github repo for the Odin Project
